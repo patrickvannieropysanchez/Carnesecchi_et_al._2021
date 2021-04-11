@@ -6,7 +6,7 @@ FRAP image series used consisted of singular S2R+ culture cells, acquired on a N
 Prerequisites to be able to run the Jython script:
 
 1. Have the slice alignment plugin from Tseng, Q. et al. (2012) installed on ImageJ, or adapt code to aligment tool of preference.
-2. Have the stimulus ROI in the same directory as the timeseries.
+2. Have the stimulus ROI in the same directory as the time series.
 
 Tips for running the R script:
 
