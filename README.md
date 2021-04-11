@@ -1,7 +1,7 @@
 # Carnesecchi_et_al._2021
 This repository supports Carnesecchi et al., 2021
 
-Image series used consists of singular S2R+ culture cells, acquired on a NIKON A1R with NIS Elements. The Jython script accepts single cells in frame with fragments of other cells on the image borders, which will be ignored and excluded from analysis.
+FRAP image series used consisted of singular S2R+ culture cells, acquired on a NIKON A1R with NIS Elements. The Jython script accepts single cells in frame with fragments of other cells on the image borders, which will be ignored and excluded from analysis.
 
 Prerequisites to be able to run the Jython script:
 
